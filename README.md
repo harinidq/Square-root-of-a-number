@@ -29,7 +29,8 @@ print("Square root of the number:",sqrt())
 ```
 
 ## Output:
-![Uploading Screenshot from 2022-09-21 18-58-15.png…]()
+!![Screenshot from 2022-09-21 18-58-15](https://user-images.githubusercontent.com/113497680/191516902-cc9d909d-2077-4869-9f65-d78a3d7f3b46.png)
+
 
 
 
